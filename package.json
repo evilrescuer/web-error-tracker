@@ -1,6 +1,6 @@
 {
   "name": "web-error-tracker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端错误收集器 An error tracker for web project.",
   "main": "index.js",
   "scripts": {},
