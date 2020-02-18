@@ -9,7 +9,7 @@ An error tracker for web project.
     * 或者`npm install web-error-tracker`
 * 初始化
     ```
-      import ErrorTracker from './error-tracker-module';
+      import ErrorTracker from 'web-error-tracker';
       const errorTracker = new ErrorTracker();
       errorTracker.init();
     ```
